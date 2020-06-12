@@ -1,5 +1,5 @@
 ## Thanks to the article of Lgreski in Demystifying makeVector() in helping to understand the steps.
-## Comments below every step
+## Comments below every step.
 
 makeCacheMatrix <- function(x = as.matrix()) {
   s <- NULL
